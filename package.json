@@ -1,0 +1,13 @@
+{
+    "name": "js-project",
+    "version": "1.0.0",
+    "description": "A simple JavaScript project",
+    "scripts": {
+      "build": "tsc"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^5.0.0"
+    }
+  }
+  
